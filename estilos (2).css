@@ -1,0 +1,23 @@
+.menu {
+padding: 0;
+}
+
+.menu li {
+display: inline;
+}
+
+.menu li a {
+font-family: Arial; 
+font-size: 20px; 
+text-decoration: none; 
+float: left; 
+padding: 40px; 
+background-color: yellowgreen;
+color: #fff;
+}
+
+.menu li a:hover {
+background-color: blue;
+margin-top: -2;
+padding-bottom: 40px;]
+}
